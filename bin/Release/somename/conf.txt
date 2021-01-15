@@ -1,0 +1,4 @@
+﻿..\pict\file_to_copy.py
+exfolder\file_to_copy_copyed.py
+nameOf_lnk_OR_registryElement
+lnk
